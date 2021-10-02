@@ -1,0 +1,20 @@
+# ignore all files
+
+*
+
+# except...
+
+!/**/
+!.gitignore
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!*.myfuncs
+!*.md
+!*.mak
+!Makefile*
+!makefile*
+!*.json
+!*.sh
+
